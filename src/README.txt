@@ -21,3 +21,4 @@ CI & CD Process
 ---------------------------
 11. Configure test execution from terminal using maven compiler and maven surefire plugins
 12. Configure local and remote repository for the project using git and github (any any similar remote repository)
+13. Configure github actions or any other ci management tools to use this repository
