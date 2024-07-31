@@ -1,0 +1,28 @@
+21:36:58.008 [main] INFO  api.test.UserTests - **************** Creating new user ****************
+21:37:00.627 [main] INFO  api.test.UserTests - **************** Successfully created new user ****************
+21:37:00.632 [main] INFO  api.test.UserTests - **************** Reading user details ****************
+21:37:02.166 [main] INFO  api.test.UserTests - **************** Successfully read user details ****************
+21:37:02.167 [main] INFO  api.test.UserTests - **************** Updating user information ****************
+21:37:05.109 [main] INFO  api.test.UserTests - **************** Successfully updated the user information ****************
+21:37:05.114 [main] INFO  api.test.UserTests - **************** Deleting the user by username ****************
+21:37:06.641 [main] INFO  api.test.UserTests - **************** Successfully deleted the user ****************
+21:37:06.645 [main] INFO  api.test.StoreTests - **************** Placing a new order ****************
+21:37:08.179 [main] INFO  api.test.StoreTests - **************** Order placed successfully ****************
+21:37:08.184 [main] INFO  api.test.StoreTests - **************** Retrieving the newly placed order ****************
+21:37:09.818 [main] INFO  api.test.StoreTests - **************** Order retrieved successfully ****************
+21:37:09.822 [main] INFO  api.test.StoreTests - **************** Delete the order ****************
+21:37:11.354 [main] INFO  api.test.StoreTests - **************** Order deleted successfully ****************
+21:37:11.357 [main] INFO  api.test.StoreTests - **************** Retrieve all items in the inventory ****************
+21:37:12.890 [main] INFO  api.test.StoreTests - **************** Inventory items retrieved successfully ****************
+21:37:13.416 [main] INFO  api.test.DataDrivenTests - **************** Creating new user from excel test data ****************
+21:37:14.937 [main] INFO  api.test.DataDrivenTests - **************** Created a new user from excel test data ****************
+21:37:14.940 [main] INFO  api.test.DataDrivenTests - **************** Creating new user from excel test data ****************
+21:37:16.473 [main] INFO  api.test.DataDrivenTests - **************** Created a new user from excel test data ****************
+21:37:16.476 [main] INFO  api.test.DataDrivenTests - **************** Creating new user from excel test data ****************
+21:37:17.923 [main] INFO  api.test.DataDrivenTests - **************** Created a new user from excel test data ****************
+21:37:17.965 [main] INFO  api.test.DataDrivenTests - **************** Deleting the user created from test data ****************
+21:37:19.311 [main] INFO  api.test.DataDrivenTests - **************** Deleted the user created from test data ****************
+21:37:19.314 [main] INFO  api.test.DataDrivenTests - **************** Deleting the user created from test data ****************
+21:37:20.875 [main] INFO  api.test.DataDrivenTests - **************** Deleted the user created from test data ****************
+21:37:20.877 [main] INFO  api.test.DataDrivenTests - **************** Deleting the user created from test data ****************
+21:37:22.410 [main] INFO  api.test.DataDrivenTests - **************** Deleted the user created from test data ****************
