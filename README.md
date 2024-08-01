@@ -1,6 +1,7 @@
-Why Framework?RestAssured Framework created with Maven, TestNG, Extent Reports and Git
-======================================================================================
+RestAssured Framework created with Java, Maven, TestNG, Extent Reports and Git
+===============================================================================
 
+-------------------------------------------------
 How to configure and run tests in this framework?
 -------------------------------------------------
 1. Clone this repository
